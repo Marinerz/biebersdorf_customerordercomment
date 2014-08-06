@@ -16,7 +16,7 @@
             ["app/etc/modules/Biebersdorf_CustomerOrderComment.xml", "app/etc/modules/Biebersdorf_CustomerOrderComment.xml"],
             ["app/locale/", "app/locale"],
             ["app/code/community/Biebersdorf/CustomerOrderComment/","app/code/community/Biebersdorf/CustomerOrderComment/"],
-            ["app/design/", "app/design/"]
+            ["app/design/adminhtml/template/sales/order/view/tab/info.phml", "app/design/adminhtml/template/sales/order/view/tab/info.phml"]
         ]
     }
 }
