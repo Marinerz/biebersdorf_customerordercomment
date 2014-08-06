@@ -14,9 +14,9 @@
     "extra":{
         "map":[
             ["app/etc/modules/Biebersdorf_CustomerOrderComment.xml", "app/etc/modules/Biebersdorf_CustomerOrderComment.xml"],
-            ["app/locale", "app/locale"],
+            ["app/locale/", "app/locale"],
             ["app/code/community/Biebersdorf/CustomerOrderComment/","app/code/community/Biebersdorf/CustomerOrderComment/"],
-            ["app/design", "app/design"]
+            ["app/design/", "app/design/"]
         ]
     }
 }
