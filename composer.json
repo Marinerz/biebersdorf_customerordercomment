@@ -16,11 +16,8 @@
         "map":[
             ["app/etc/modules/Biebersdorf_CustomerOrderComment.xml", "app/etc/modules/Biebersdorf_CustomerOrderComment.xml"],
             ["app/locale", "app/locale"],
-            ["app/code/community/Biebersdorf/CustomerOrderComment/etc","app/code/community/Biebersdorf/CustomerOrderComment/etc"],
-            ["app/code/community/Biebersdorf/CustomerOrderComment/sql","app/code/community/Biebersdorf/CustomerOrderComment/sql"],
-            ["app/code/community/Biebersdorf/CustomerOrderComment/helper","app/code/community/Biebersdorf/CustomerOrderComment/helper"],
-            ["app/code/community/Biebersdorf/CustomerOrderComment/design", "app/design"],
-            ["skin/frontend/base/default/aoe_templatehints", "skin/frontend/base/default/aoe_templatehints"]
+            ["app/code/community/Biebersdorf/CustomerOrderComment","app/code/community/Biebersdorf/CustomerOrderComment"],
+            ["app/design", "app/design"]
         ]
     }
 }
