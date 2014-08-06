@@ -14,7 +14,11 @@
     "extra":{
         "map":[
             ["app/etc/modules/Biebersdorf_CustomerOrderComment.xml", "app/etc/modules/Biebersdorf_CustomerOrderComment.xml"],
-            ["app/locale/", "app/locale"],
+            ["app/locale/de_DE/Biebersdorf_CustomerOrderComment.csv", "app/locale/de_DE/Biebersdorf_CustomerOrderComment.csv"],
+            ["app/locale/en_GB/Biebersdorf_CustomerOrderComment.csv", "app/locale/en_GB/Biebersdorf_CustomerOrderComment.csv"],
+            ["app/locale/en_US/Biebersdorf_CustomerOrderComment.csv", "app/locale/en_US/Biebersdorf_CustomerOrderComment.csv"],
+            ["app/locale/nl_NL/Biebersdorf_CustomerOrderComment.csv", "app/locale/nl_NL/Biebersdorf_CustomerOrderComment.csv"],
+            ["app/locale/th_TH/Biebersdorf_CustomerOrderComment.csv", "app/locale/th_TH/Biebersdorf_CustomerOrderComment.csv"],
             ["app/code/community/Biebersdorf/CustomerOrderComment/","app/code/community/Biebersdorf/CustomerOrderComment/"],
             ["app/design/adminhtml/template/sales/order/view/tab/info.phtml", "app/design/adminhtml/template/sales/order/view/tab/info.phtml"]
         ]
