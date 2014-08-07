@@ -38,4 +38,6 @@ class Biebersdorf_CustomerOrderComment_Helper_Data extends Mage_Core_Helper_Abst
             $observer->getEvent()->getOrder()->setBiebersdorfCustomerordercomment($orderComment);
         }
     }
+
+    // test
 }
